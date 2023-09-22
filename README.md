@@ -1,16 +1,23 @@
-# Aplicación DMI_Practica07_180247
+# Universidad Tecnológica de Xicotepec de Juárez
 
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
-## Información General
 
-- **Creado por:** Lesly Yareth Hernandez Bonilla
-- **Asignatura:** Desarrollo Movil Integral
-- **Grado:** 10
-- **Grupo:** A
-- **Docente:** MTI. Marco Antonio Ramirez Hernandez
-## Descripción de la práctica
-La aplicación desarrollada en clase muestra una página de inicio con el título "MovieApp-200931". La página de inicio contiene "La AppBar" que permite muestrsr el título  en el centro, cuenta con un icono de búsqueda en la esquina derecha.
- Tambien cuenta con un Drawer la cual cuenta con un menú lateral que tiene las opciones de: "peliculas", "Television" y "Cerrar". Por umtimo cuenta con una Barra de Navegación contiene tres elementos: "populares": Muestra películas populares, "Proximamente": Muestra películas próximas a estrenarsey "Mejor valorados": Muestra películas mejor valoradas.
-## Resultado Final
-![Captura1](https://github.com/Lesly-hub/DMI_Practica07_180247/assets/74167109/5deff3c0-d70e-496a-a8f3-cf0be4fdf051)
+## Ingeniería en Desarrollo y Gestión de Software
+### Josseline Alvarado Vargas
+### 10A
+#### DMI
+### DMI_PRACTICA7_200687
 
+## Características
+| Característica         | Información                                                              |
+|------------------------|--------------------------------------------------------------------------|
+| Nombre                 | DMI_PRACTICA7_200687                                     |
+| Fecha de Carga         | 19/09/2023                                                                 |
+
+## Descripción      
+
+La aplicación desarrollada en clase muestra una página de inicio titulada "MovieApp". La página de inicio contiene la "AppBar" que le permite mostrar un título en el centro y un icono de búsqueda en la esquina superior derecha. También cuenta con un cajón con un menú lateral con las siguientes opciones: Películas, TV y Apagado. Finalmente, tiene una barra de navegación con tres elementos: "Popular": muestra películas populares, "Próximamente": muestra las próximas películas y "Top Rated": muestra las películas con las calificaciones más altas.
+
+  
+## Capturas de Pantalla de la App
+![image](https://github.com/JossAlvarado/DMI_Practica07_200687/assets/84793967/4ffcb416-373a-4dc6-9e3c-ceff9d62854b)
